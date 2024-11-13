@@ -21,7 +21,7 @@
 ### 📫 Связаться со мной
 
 - **GitHub**: [troini](https://github.com/troini)
-- **Email**: [ваш.email@example.com](mailto:ваш.email@example.com)
+- **Email**: [valeevkirill64@yandex.ru](mailto:valeevkirill64@yandex.ru)
 - **Telegram**: [@trxini02](https://t.me/trxini02)
 
 ---
