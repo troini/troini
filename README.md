@@ -13,11 +13,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=troini&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troini&layout=compact&theme=radical" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="Your GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 ---
