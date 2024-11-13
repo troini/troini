@@ -13,10 +13,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=troini&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troini&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
