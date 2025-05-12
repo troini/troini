@@ -1,5 +1,4 @@
-<h1 align="center">Hi there!👋 I'm troini</h1>
-<h3 align="center">Mobile Developer <img src="https://img.icons8.com/?size=100&id=2586&format=png&color=000000" alt="Jetpack Compose" width="40" height="40"> </h3>
+<h3 align="center">Mobile Developer</h3>
 
 ---
 
