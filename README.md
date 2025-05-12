@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 I'm troini</h1>
-<h3 align="center">Mobile Developer <img src="https://developer.android.com/static/images/jetpack/compose-hero.svg" alt="Jetpack Compose" height="40"> </h3>
+<h3 align="center">Mobile Developer ![Jetpack Compose](https://developer.android.com/static/images/jetpack/compose-icon.png) </h3>
 
 ---
 
