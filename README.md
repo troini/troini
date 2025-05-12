@@ -1,5 +1,6 @@
 <h1 align="center">Hi there!👋 I'm troini</h1>
-<h3 align="center">Mobile Developer ![Jetpack Compose](https://developer.android.com/static/images/jetpack/compose-icon.png) </h3>
+<h3 align="center">Mobile Developer  </h3>
+![Jetpack Compose](https://img.icons8.com/ios-filled/50/000000/android-jetpack-compose-logo.png)
 
 ---
 
